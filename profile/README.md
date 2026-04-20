@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img src="https://alby.sh/icon.png" width="96" alt="Alby" onerror="this.style.display='none'" />
+  <img src="https://raw.githubusercontent.com/alby-sh/alby/main/resources/icon.png" width="96" alt="Alby" />
   <h1>Alby</h1>
   <p><strong>The control room for your AI coding agents.</strong></p>
 
