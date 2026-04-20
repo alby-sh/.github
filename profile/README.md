@@ -34,8 +34,8 @@ Drop one of these into your app and runtime errors flow back into Alby for triag
 
 | Runtime | Install | Repo |
 |---|---|---|
-| Node.js / TypeScript | `npm install @alby/report` | [alby-sh/alby-sdk-js](https://github.com/alby-sh/alby-sdk-js) |
-| Browser (any bundler or `<script>`) | `npm install @alby/browser` | [alby-sh/alby-sdk-browser](https://github.com/alby-sh/alby-sdk-browser) |
+| Node.js / TypeScript | `npm install @alby-sh/report` | [alby-sh/alby-sdk-js](https://github.com/alby-sh/alby-sdk-js) |
+| Browser (any bundler or `<script>`) | `npm install @alby-sh/browser` | [alby-sh/alby-sdk-browser](https://github.com/alby-sh/alby-sdk-browser) |
 | PHP 8.2+ (Laravel auto-discovery) | `composer require alby/report` | [alby-sh/alby-sdk-php](https://github.com/alby-sh/alby-sdk-php) |
 | Python 3.8+ (Django / Flask / FastAPI) | `pip install alby-report` | [alby-sh/alby-sdk-python](https://github.com/alby-sh/alby-sdk-python) |
 
